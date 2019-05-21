@@ -18,7 +18,7 @@ rails db:migrate
 rails s
 ```
 
-You cna use the following endpoints:
+You can use the following endpoints:
 
 ```Shell
     POST /users 
